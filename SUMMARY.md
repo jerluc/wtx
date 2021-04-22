@@ -2,8 +2,9 @@
 
 * [README](README.md)
 
-## HTTP
+## Topics
 
-* [Introduction to HTTP](http/introduction-to-http.md)
-* [Related readings](http/related-readings.md)
+* [HTTP](topics/http/README.md)
+  * [Introduction](topics/http/introduction.md)
+  * [Related readings](topics/http/related-readings.md)
 

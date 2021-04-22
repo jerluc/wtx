@@ -8,7 +8,7 @@ This repository is my attempt to maintain self-authored walkthroughs, tutorials,
 
 | Topic | Author\(s\) | Last Updated |
 | :--- | :--- | :--- |
-| [HTTP](http/introduction-to-http.md) | @jerluc | 2021-04-22 |
+| [HTTP](topics/http/) | @jerluc | 2021-04-22 |
 
 ## Can I help?
 
