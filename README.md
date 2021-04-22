@@ -16,5 +16,5 @@ Sure thing! I'd be happy to discuss merging any contributions containing changes
 
 ### How is this information licensed?
 
-See the license \[here\]\(LICENSE.md\)
+See the license [here](LICENSE.md)
 
